@@ -1,10 +1,5 @@
-### Hi there 👋
-
-
-**balogunadebola/balogunadebola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hello there 👋
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on becoming proficient in Data Analytics tools. 
 - 🌱 I’m currently learning Data Analysis with the help of resources found online.
 - 👯 I’m looking to collaborate on Data Analytics related projects
