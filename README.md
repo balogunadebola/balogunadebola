@@ -5,4 +5,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Data Analytics related projects
 - 🤔 I’m looking for help with advancing my knowledge in core data analysis skills.
 - 💬 Ask me about my learning journey.
-- 📫 How to reach me: twitter.com/AdeboyzoL
+- 📫 How to reach me: twitter.com/AdeboyzoL, LinkedIn: https://www.linkedin.com/mwlite/in/adebola-balogun-006553190
