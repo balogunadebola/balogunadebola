@@ -2,8 +2,8 @@
 Here are some ideas to get you started:
 
 My Skills: 💻 Microsoft Excel 📊 Power BI 👨‍💻 SQL
-- 🔭 I’m getting better with data
-- 🌱 I’m currently learning Financial Analysis with the help of resources found online.
+- 🔭 I’m getting better with data tools
+- 🌱 I’m currently part of a data analysis nanodegree program to advance my knoweldge of data.
 - 👯 I’m looking to collaborate on projects that requires adept knowledge of data.
 - 🤔 I’m looking for help with advancing my knowledge in core data analysis skills.
 - 💬 You can ask me about my learning journey.
